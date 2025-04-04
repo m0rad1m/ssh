@@ -1,0 +1,4 @@
+# Disable root login in general
+PermitRootLogin no
+# Change default port
+Port 777
